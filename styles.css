@@ -1,0 +1,27 @@
+<style>
+        h1{
+            text-align: center;
+            font-size:60px;
+            border: 10px solid blue;
+            background-color: #A7E6FF;
+            color:#000000;
+            border-radius: 20px;
+            padding: 20px;
+        }
+        body{
+            color: #F5F5F5;
+            background-color:#000000;
+        }
+        p{
+          color: #F5F5F5;
+        }
+        h2{
+            color: blue;
+        }
+        h3{
+            color: #FF0000;
+        }
+        a {
+            color: blue;
+        }
+    </style>
